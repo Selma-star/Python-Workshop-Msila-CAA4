@@ -14,5 +14,5 @@ Automatically sort files in a folder by extension (`.jpg` → Images, `.pdf` →
 | 📄 Line-by-Line Solution (PDF) | [Download](./FileOrganizer_Solution.pdf) |
 
 ## 🏁 Try It Yourself
-1. Create a `sample-files` folder with mixed file types.
+1. Create a `cleanup_test` folder with mixed file types.
 2. Run the solution code to watch the magic happen! ✨
