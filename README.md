@@ -47,7 +47,7 @@ Thanks to **CSE Club**, **CAA**, and **Elec Club** for making this event possibl
 
 ## 📬 Contact
 
-Have questions? Reach out via [LinkedIn](https://www.linkedin.com/in/mira-selma-9a6b3a322/)) or [Email](ns_mira@esi.dz)
+Have questions? Reach out via [LinkedIn](https://www.linkedin.com/in/mira-selma-9a6b3a322/) or [Email](ns_mira@esi.dz)
 
 ---
 
