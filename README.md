@@ -12,7 +12,8 @@ Workshop materials for **"Introduction to Python: From Basics to Useful Projects
 
 ## 🎯 Workshop Methodology
 
-This workshop follows a **"Learning by Doing"** approach. Instead of traditional lectures, participants solved real-world problems from day one.
+This workshop follows a **"Learning by Doing"** approach. Instead of traditional lectures, participants solved real-world problems from day one. We used **Google Colab** for instant result and **VSCode** for local development.
+
 
 ---
 
