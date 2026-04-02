@@ -28,7 +28,7 @@ This workshop follows a **"Learning by Doing"** approach. Instead of traditional
 
 ## 🛠️ Setup Guide
 
-New to Python? Start here: [Setup Guide](./setup-guide.md)
+New to Python? Start here: [Setup Guide](./Setup_Guide.pdf)
 
 ---
 
